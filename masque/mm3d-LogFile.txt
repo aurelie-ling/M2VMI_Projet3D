@@ -1,0 +1,39 @@
+=================================================================
+"mm3d" "Tapioca" "MulScale" ".*jpg" "200" "2500" 
+ PID : 38535 ;   [Beginning at ] Sun Jan  9 00:03:45 2022
+ PID : 38535 ;   [Ending correctly at] Sun Jan  9 00:10:44 2022
+=================================================================
+"mm3d" "Tapas" "RadialStd" "IMG_.*jpg" "Out=SfM" 
+ PID : 41927 ;   [Beginning at ] Sun Jan  9 00:11:02 2022
+ PID : 41927 ;   [Ending correctly at] Sun Jan  9 00:13:03 2022
+=================================================================
+"mm3d" "AperiCloud" "IMG_.*jpg" "Ori-SfM/" 
+ PID : 41945 ;   [Beginning at ] Sun Jan  9 00:14:19 2022
+ PID : 41945 ;   [Ending correctly at] Sun Jan  9 00:14:37 2022
+=================================================================
+"mm3d" "Malt" "GeomImage" "IMG.*jpg" "Fontaine" "Master=IMG_6116.jpg" "ZoomF=2" 
+ PID : 6776 ;   [Beginning at ] Sun Jan  9 00:03:26 2022
+=================================================================
+"mm3d" "Malt" "GeomImage" ".*jpg" "Ori-SfM" "Master=IMG_6116.jpg" "ZoomF=2" 
+ PID : 2704 ;   [Beginning at ] Sun Jan  9 00:05:06 2022
+ PID : 2704 ;   [Ending correctly at] Sun Jan  9 00:07:13 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMByP" "QuickMac" ".*jpg" "SfM" "Masq3D=AperiCloud_SfM_polyg3d.xml" "UseGpu=0" "ExpImSec=1" "SH=" "Do=AMP" "Zoom0=8" "ZoomF=8" "ExpTxt=0" 
+ PID : 8208 ;   [Beginning at ] Sun Jan  9 00:22:27 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "AperoChImSecMM" ".*jpg" "SfM" "ExpTxt=0" "ExpImSec=1" "SH=" "TetaOpt=0.170000" "Masq3D=AperiCloud_SfM_polyg3d.xml" 
+ PID : 6640 ;   [Beginning at ] Sun Jan  9 00:22:29 2022
+ PID : 6640 ;   [Ending correctly at] Sun Jan  9 00:22:39 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMPyram" ".*jpg" "SfM" 
+ PID : 12320 ;   [Beginning at ] Sun Jan  9 00:22:40 2022
+ PID : 12320 ;   [Ending correctly at] Sun Jan  9 00:22:42 2022
+ PID : 8208 ;   [Ending correctly at] Sun Jan  9 00:22:48 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMPyram" "./%NKS-Set-OfFile@MMByPairFiles.xml" "SfM" "ImSec=SfM" 
+ PID : 3872 ;   [Beginning at ] Sun Jan  9 00:22:49 2022
+ PID : 3872 ;   [Ending correctly at] Sun Jan  9 00:22:51 2022
+=================================================================
+"mm3d" "Tapioca" "MulScale" ".*jpg" "200" "2500" "ExpTxt=1" 
+ PID : 62989 ;   [Beginning at ] Sun Jan  9 21:50:38 2022
+ PID : 62989 ;   [Ending correctly at] Sun Jan  9 21:51:08 2022

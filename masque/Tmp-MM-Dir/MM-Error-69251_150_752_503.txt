@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 205  of file /home/aurelie/micmac/src/util/error.cpp 
+PID=69251
+Context=[cEliseFatalErrorHandler::cEFEH_OnErreur]
+GMEC:mes=Filter=true and image pattern is missing line=206 file=/home/aurelie/micmac/src/uti_phgrm/CPP_TiPunch.cpp
+MM3D-Command=["mm3d" "TiPunch" "C3DC_QuickMac.ply" ]

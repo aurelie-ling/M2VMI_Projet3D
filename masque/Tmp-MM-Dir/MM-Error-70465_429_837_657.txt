@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 205  of file /home/aurelie/micmac/src/util/error.cpp 
+PID=70465
+Context=[cEliseFatalErrorHandler::cEFEH_OnErreur]
+GMEC:mes=cMesh3D.cpp: cMesh::cMesh, cannot open ply file for reading line=504 file=/home/aurelie/micmac/src/geom3d/cMesh3D.cpp
+MM3D-Command=["mm3d" "Tequila" ".*jpg" "Ori-SfM/" "C3DC_BigMac_mesh.ply" ]

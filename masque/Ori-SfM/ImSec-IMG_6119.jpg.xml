@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<ImSecOfMaster>
+     <UsedPenal>0.200000000000000011</UsedPenal>
+     <Master>IMG_6119.jpg</Master>
+     <Sols>
+          <Images>IMG_6118.jpg</Images>
+          <Coverage>0.927538476606671991</Coverage>
+          <Score>0.727538476606671924</Score>
+     </Sols>
+     <Sols>
+          <Images>IMG_6118.jpg</Images>
+          <Images>IMG_6120.jpg</Images>
+          <Coverage>1.5189547917464068</Coverage>
+          <Score>1.11895479174640666</Score>
+     </Sols>
+     <Sols>
+          <Images>IMG_6118.jpg</Images>
+          <Images>IMG_6120.jpg</Images>
+          <Images>IMG_6117.jpg</Images>
+          <Coverage>1.62618053358833814</Coverage>
+          <Score>1.02618053358833805</Score>
+     </Sols>
+     <ISOM_AllVois>
+          <ISOM_Vois>
+               <Name>IMG_6117.jpg</Name>
+               <Angle>0.39164837242226147</Angle>
+               <Nb>80</Nb>
+               <RatioVis>1.00000000000000022</RatioVis>
+          </ISOM_Vois>
+          <ISOM_Vois>
+               <Name>IMG_6118.jpg</Name>
+               <Angle>0.175272560714525683</Angle>
+               <Nb>156</Nb>
+               <RatioVis>1.00000000000000022</RatioVis>
+          </ISOM_Vois>
+          <ISOM_Vois>
+               <Name>IMG_6120.jpg</Name>
+               <Angle>0.303496638652102857</Angle>
+               <Nb>61</Nb>
+               <RatioVis>0.996157031082002264</RatioVis>
+          </ISOM_Vois>
+     </ISOM_AllVois>
+</ImSecOfMaster>

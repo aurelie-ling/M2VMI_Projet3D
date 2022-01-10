@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<ImSecOfMaster>
+     <UsedPenal>0.200000000000000011</UsedPenal>
+     <Master>IMG_6123.jpg</Master>
+     <Sols>
+          <Images>IMG_6122.jpg</Images>
+          <Coverage>0.955685381153673186</Coverage>
+          <Score>0.75568538115367323</Score>
+     </Sols>
+     <ISOM_AllVois>
+          <ISOM_Vois>
+               <Name>IMG_6122.jpg</Name>
+               <Angle>0.144391678896402365</Angle>
+               <Nb>57</Nb>
+               <RatioVis>0.988957321626325769</RatioVis>
+          </ISOM_Vois>
+     </ISOM_AllVois>
+</ImSecOfMaster>

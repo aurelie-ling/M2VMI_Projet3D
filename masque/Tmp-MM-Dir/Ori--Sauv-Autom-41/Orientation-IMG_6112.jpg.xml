@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<ExportAPERO>
+     <OrientationConique>
+          <OrIntImaM2C>
+               <I00>0 0</I00>
+               <V10>1 0</V10>
+               <V01>0 1</V01>
+          </OrIntImaM2C>
+          <TypeProj>eProjStenope</TypeProj>
+          <ZoneUtileInPixel>true</ZoneUtileInPixel>
+          <FileInterne>Ori--Sauv-Autom-41/AutoCal_Foc-4200_Cam-iPhone_11.xml</FileInterne>
+          <RelativeNameFI>true</RelativeNameFI>
+          <Externe>
+               <AltiSol>2.79021036628138797</AltiSol>
+               <Profondeur>11.458408791525132</Profondeur>
+               <Time>-1.00000000000000002e+30</Time>
+               <KnownConv>eConvApero_DistM2C</KnownConv>
+               <Centre>-2.5699134856312682 2.67674171956322748 -8.6323400259067089</Centre>
+               <IncCentre>1 1 1</IncCentre>
+               <ParamRotation>
+                    <CodageMatr>
+                         <L1>0.853054356126979441 0.218809939537457365 0.473730383079235262</L1>
+                         <L2>0.00362632116444299487 0.905331213827812675 -0.42469076168886899</L2>
+                         <L3>-0.521809462627496945 0.364002202779974526 0.771503260578806138</L3>
+                    </CodageMatr>
+               </ParamRotation>
+          </Externe>
+          <Verif>
+               <Tol>0.00100000000000000002</Tol>
+               <ShowMes>true</ShowMes>
+               <Appuis>
+                    <Num>0</Num>
+                    <Im>2902.11750411987396 1871.17238616943359</Im>
+                    <Ter>3.02181657669213255 0.24086604721885374 -3.59651832118946579</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>1</Num>
+                    <Im>496.014660358428273 2182.60829257965088</Im>
+                    <Ter>-0.757944422723746181 -0.945752504194561361 7.91265854549195247</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>2</Num>
+                    <Im>3826.902488708497 2071.17252445220947</Im>
+                    <Ter>4.47240147202995253 0.782699002063373506 -4.79478834857079761</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>3</Num>
+                    <Im>36.5577492713923675 1993.21572017669632</Im>
+                    <Ter>-2.6794570741818462 0.18105102324979061 1.09840231814632006</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>4</Num>
+                    <Im>3248.99577713012695 212.473729848861467</Im>
+                    <Ter>5.23725963901087876 -5.94864349153901006 -3.99330310380061171</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>5</Num>
+                    <Im>2145.12615966796875 1323.78649663925148</Im>
+                    <Ter>1.38485483082501215 -1.1368191074971512 -2.85409042189887074</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>6</Num>
+                    <Im>372.278320312499773 218.195251822471164</Im>
+                    <Ter>-3.07532124383882355 -6.32193933607154879 1.51127437577751067</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>7</Num>
+                    <Im>661.460886955260548 2762.0356063842778</Im>
+                    <Ter>0.349728757027838899 1.57093603340142884 7.58909306583276155</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>8</Num>
+                    <Im>3774.66164016723633 138.752343356608662</Im>
+                    <Ter>5.58602239093562325 -5.10217542200621921 -5.4312904796545709</Ter>
+               </Appuis>
+               <Appuis>
+                    <Num>9</Num>
+                    <Im>1685.56975364685013 50.0232128798963913</Im>
+                    <Ter>0.549419256343992135 -6.37203648003720158 -1.52259689737743731</Ter>
+               </Appuis>
+          </Verif>
+          <ConvOri>
+               <KnownConv>eConvApero_DistM2C</KnownConv>
+          </ConvOri>
+     </OrientationConique>
+</ExportAPERO>

@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 205  of file C:\projects\micmac-uct71\src\util\error.cpp 
+PID=2188
+Context=[cEliseFatalErrorHandler::cEFEH_OnErreur]
+GMEC:mes=Empty pattern line=526 file=C:\projects\micmac-uct71\src\uti_phgrm\CPP_MMByPair.cpp
+MM3D-Command=["mm3d" "C3DC" "BigMac" ".jpg" "Ori-SfM" "Masq3D=AperiCloud_SfM_selectionInfo.xml" ]

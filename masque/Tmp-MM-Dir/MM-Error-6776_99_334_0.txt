@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 205  of file C:\projects\micmac-uct71\src\util\error.cpp 
+PID=6776
+Context=[cEliseFatalErrorHandler::cEFEH_OnErreur]
+GMEC:mes=Ori name is not a valid existing directory line=4103 file=C:\projects\micmac-uct71\src\photogram\ChantierNameAssoc.cpp
+MM3D-Command=["mm3d" "Malt" "GeomImage" "IMG.*jpg" "Fontaine" "Master=IMG_6116.jpg" "ZoomF=2" ]

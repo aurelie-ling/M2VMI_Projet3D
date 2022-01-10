@@ -1,0 +1,216 @@
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6116.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6116.jpg.tif" 
+ PID : 7740 ;   [Beginning at ] Sun Jan  9 00:22:53 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6114.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6114.jpg.tif" 
+ PID : 12316 ;   [Beginning at ] Sun Jan  9 00:22:53 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6113.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6113.jpg.tif" 
+ PID : 9116 ;   [Beginning at ] Sun Jan  9 00:22:53 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6115.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6115.jpg.tif" 
+ PID : 6432 ;   [Beginning at ] Sun Jan  9 00:22:53 2022
+ PID : 7740 ;   [Ending correctly at] Sun Jan  9 00:22:53 2022
+ PID : 12316 ;   [Ending correctly at] Sun Jan  9 00:22:53 2022
+ PID : 9116 ;   [Ending correctly at] Sun Jan  9 00:22:53 2022
+ PID : 6432 ;   [Ending correctly at] Sun Jan  9 00:22:53 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6113.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6113.jpg.tif" 
+ PID : 9412 ;   [Beginning at ] Sun Jan  9 00:22:56 2022
+ PID : 9412 ;   [Ending correctly at] Sun Jan  9 00:22:56 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6116.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6116.jpg.tif" 
+ PID : 8996 ;   [Beginning at ] Sun Jan  9 00:22:56 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6114.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6114.jpg.tif" 
+ PID : 1360 ;   [Beginning at ] Sun Jan  9 00:22:56 2022
+ PID : 8996 ;   [Ending correctly at] Sun Jan  9 00:22:57 2022
+ PID : 1360 ;   [Ending correctly at] Sun Jan  9 00:22:57 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6115.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6115.jpg.tif" 
+ PID : 2524 ;   [Beginning at ] Sun Jan  9 00:22:57 2022
+ PID : 2524 ;   [Ending correctly at] Sun Jan  9 00:22:57 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6117.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6117.jpg.tif" 
+ PID : 10384 ;   [Beginning at ] Sun Jan  9 00:23:01 2022
+ PID : 10384 ;   [Ending correctly at] Sun Jan  9 00:23:01 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6119.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6119.jpg.tif" 
+ PID : 13252 ;   [Beginning at ] Sun Jan  9 00:23:02 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6118.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6118.jpg.tif" 
+ PID : 12580 ;   [Beginning at ] Sun Jan  9 00:23:02 2022
+ PID : 13252 ;   [Ending correctly at] Sun Jan  9 00:23:02 2022
+ PID : 12580 ;   [Ending correctly at] Sun Jan  9 00:23:02 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6120.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6120.jpg.tif" 
+ PID : 10592 ;   [Beginning at ] Sun Jan  9 00:23:02 2022
+ PID : 10592 ;   [Ending correctly at] Sun Jan  9 00:23:03 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6117.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6117.jpg.tif" 
+ PID : 12032 ;   [Beginning at ] Sun Jan  9 00:23:04 2022
+ PID : 12032 ;   [Ending correctly at] Sun Jan  9 00:23:05 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6119.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6119.jpg.tif" 
+ PID : 12508 ;   [Beginning at ] Sun Jan  9 00:23:05 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6118.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6118.jpg.tif" 
+ PID : 10296 ;   [Beginning at ] Sun Jan  9 00:23:05 2022
+ PID : 12508 ;   [Ending correctly at] Sun Jan  9 00:23:05 2022
+ PID : 10296 ;   [Ending correctly at] Sun Jan  9 00:23:06 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6120.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6120.jpg.tif" 
+ PID : 5592 ;   [Beginning at ] Sun Jan  9 00:23:06 2022
+ PID : 5592 ;   [Ending correctly at] Sun Jan  9 00:23:06 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6121.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6121.jpg.tif" 
+ PID : 624 ;   [Beginning at ] Sun Jan  9 00:23:10 2022
+ PID : 624 ;   [Ending correctly at] Sun Jan  9 00:23:10 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6123.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6123.jpg.tif" 
+ PID : 11900 ;   [Beginning at ] Sun Jan  9 00:23:11 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6122.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6122.jpg.tif" 
+ PID : 3388 ;   [Beginning at ] Sun Jan  9 00:23:11 2022
+ PID : 11900 ;   [Ending correctly at] Sun Jan  9 00:23:11 2022
+ PID : 3388 ;   [Ending correctly at] Sun Jan  9 00:23:11 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6124.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6124.jpg.tif" 
+ PID : 11704 ;   [Beginning at ] Sun Jan  9 00:23:11 2022
+ PID : 11704 ;   [Ending correctly at] Sun Jan  9 00:23:11 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6121.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6121.jpg.tif" 
+ PID : 8684 ;   [Beginning at ] Sun Jan  9 00:23:13 2022
+ PID : 8684 ;   [Ending correctly at] Sun Jan  9 00:23:14 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6123.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6123.jpg.tif" 
+ PID : 6120 ;   [Beginning at ] Sun Jan  9 00:23:14 2022
+ PID : 6120 ;   [Ending correctly at] Sun Jan  9 00:23:14 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6122.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6122.jpg.tif" 
+ PID : 9524 ;   [Beginning at ] Sun Jan  9 00:23:14 2022
+ PID : 9524 ;   [Ending correctly at] Sun Jan  9 00:23:15 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6124.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6124.jpg.tif" 
+ PID : 11280 ;   [Beginning at ] Sun Jan  9 00:23:15 2022
+ PID : 11280 ;   [Ending correctly at] Sun Jan  9 00:23:15 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6125.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6125.jpg.tif" 
+ PID : 6328 ;   [Beginning at ] Sun Jan  9 00:23:18 2022
+ PID : 6328 ;   [Ending correctly at] Sun Jan  9 00:23:18 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6126.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6126.jpg.tif" 
+ PID : 10632 ;   [Beginning at ] Sun Jan  9 00:23:19 2022
+ PID : 10632 ;   [Ending correctly at] Sun Jan  9 00:23:20 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6127.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6127.jpg.tif" 
+ PID : 8804 ;   [Beginning at ] Sun Jan  9 00:23:20 2022
+ PID : 8804 ;   [Ending correctly at] Sun Jan  9 00:23:20 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6128.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6128.jpg.tif" 
+ PID : 10676 ;   [Beginning at ] Sun Jan  9 00:23:21 2022
+ PID : 10676 ;   [Ending correctly at] Sun Jan  9 00:23:21 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6125.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6125.jpg.tif" 
+ PID : 5196 ;   [Beginning at ] Sun Jan  9 00:23:22 2022
+ PID : 5196 ;   [Ending correctly at] Sun Jan  9 00:23:22 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6126.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6126.jpg.tif" 
+ PID : 13192 ;   [Beginning at ] Sun Jan  9 00:23:23 2022
+ PID : 13192 ;   [Ending correctly at] Sun Jan  9 00:23:24 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6127.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6127.jpg.tif" 
+ PID : 2524 ;   [Beginning at ] Sun Jan  9 00:23:24 2022
+ PID : 2524 ;   [Ending correctly at] Sun Jan  9 00:23:24 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6128.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6128.jpg.tif" 
+ PID : 536 ;   [Beginning at ] Sun Jan  9 00:23:24 2022
+ PID : 536 ;   [Ending correctly at] Sun Jan  9 00:23:25 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6129.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6129.jpg.tif" 
+ PID : 11820 ;   [Beginning at ] Sun Jan  9 00:23:27 2022
+ PID : 11820 ;   [Ending correctly at] Sun Jan  9 00:23:28 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6130.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6130.jpg.tif" 
+ PID : 13008 ;   [Beginning at ] Sun Jan  9 00:23:29 2022
+ PID : 13008 ;   [Ending correctly at] Sun Jan  9 00:23:29 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6131.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6131.jpg.tif" 
+ PID : 2536 ;   [Beginning at ] Sun Jan  9 00:23:30 2022
+ PID : 2536 ;   [Ending correctly at] Sun Jan  9 00:23:30 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6132.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6132.jpg.tif" 
+ PID : 5988 ;   [Beginning at ] Sun Jan  9 00:23:30 2022
+ PID : 5988 ;   [Ending correctly at] Sun Jan  9 00:23:30 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6129.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6129.jpg.tif" 
+ PID : 548 ;   [Beginning at ] Sun Jan  9 00:23:32 2022
+ PID : 548 ;   [Ending correctly at] Sun Jan  9 00:23:32 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6130.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6130.jpg.tif" 
+ PID : 13076 ;   [Beginning at ] Sun Jan  9 00:23:32 2022
+ PID : 13076 ;   [Ending correctly at] Sun Jan  9 00:23:32 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6131.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6131.jpg.tif" 
+ PID : 12208 ;   [Beginning at ] Sun Jan  9 00:23:33 2022
+ PID : 12208 ;   [Ending correctly at] Sun Jan  9 00:23:33 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6132.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6132.jpg.tif" 
+ PID : 11560 ;   [Beginning at ] Sun Jan  9 00:23:34 2022
+ PID : 11560 ;   [Ending correctly at] Sun Jan  9 00:23:34 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6133.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6133.jpg.tif" 
+ PID : 7520 ;   [Beginning at ] Sun Jan  9 00:23:37 2022
+ PID : 7520 ;   [Ending correctly at] Sun Jan  9 00:23:37 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6134.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6134.jpg.tif" 
+ PID : 10992 ;   [Beginning at ] Sun Jan  9 00:23:38 2022
+ PID : 10992 ;   [Ending correctly at] Sun Jan  9 00:23:38 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6135.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6135.jpg.tif" 
+ PID : 856 ;   [Beginning at ] Sun Jan  9 00:23:39 2022
+ PID : 856 ;   [Ending correctly at] Sun Jan  9 00:23:39 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6136.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6136.jpg.tif" 
+ PID : 4028 ;   [Beginning at ] Sun Jan  9 00:23:40 2022
+ PID : 4028 ;   [Ending correctly at] Sun Jan  9 00:23:40 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6133.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6133.jpg.tif" 
+ PID : 7236 ;   [Beginning at ] Sun Jan  9 00:23:41 2022
+ PID : 7236 ;   [Ending correctly at] Sun Jan  9 00:23:41 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6134.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6134.jpg.tif" 
+ PID : 9312 ;   [Beginning at ] Sun Jan  9 00:23:42 2022
+ PID : 9312 ;   [Ending correctly at] Sun Jan  9 00:23:42 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6135.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6135.jpg.tif" 
+ PID : 10200 ;   [Beginning at ] Sun Jan  9 00:23:44 2022
+ PID : 10200 ;   [Ending correctly at] Sun Jan  9 00:23:44 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6136.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6136.jpg.tif" 
+ PID : 3412 ;   [Beginning at ] Sun Jan  9 00:23:44 2022
+ PID : 3412 ;   [Ending correctly at] Sun Jan  9 00:23:44 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6137.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6137.jpg.tif" 
+ PID : 11440 ;   [Beginning at ] Sun Jan  9 00:23:47 2022
+ PID : 11440 ;   [Ending correctly at] Sun Jan  9 00:23:47 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6138.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6138.jpg.tif" 
+ PID : 1568 ;   [Beginning at ] Sun Jan  9 00:23:48 2022
+ PID : 1568 ;   [Ending correctly at] Sun Jan  9 00:23:48 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6139.jpgDeZoom16.tif" "Out=./Pyram/ImSzW_Dz16IMG_6139.jpg.tif" 
+ PID : 1268 ;   [Beginning at ] Sun Jan  9 00:23:49 2022
+ PID : 1268 ;   [Ending correctly at] Sun Jan  9 00:23:50 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6137.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6137.jpg.tif" 
+ PID : 10916 ;   [Beginning at ] Sun Jan  9 00:23:51 2022
+ PID : 10916 ;   [Ending correctly at] Sun Jan  9 00:23:51 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6138.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6138.jpg.tif" 
+ PID : 2928 ;   [Beginning at ] Sun Jan  9 00:23:51 2022
+ PID : 2928 ;   [Ending correctly at] Sun Jan  9 00:23:52 2022
+=================================================================
+"C:/MicMac/bin/mm3d" "MMCalcSzWCor" "./Pyram/IMG_6139.jpgDeZoom8.tif" "Out=./Pyram/ImSzW_Dz8IMG_6139.jpg.tif" 
+ PID : 12144 ;   [Beginning at ] Sun Jan  9 00:23:53 2022
+ PID : 12144 ;   [Ending correctly at] Sun Jan  9 00:23:53 2022

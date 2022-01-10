@@ -1,0 +1,4 @@
+=================================================================
+279 occurence of warn type [Non rotation matrix has been used as a rotation]
+First context message : Accept False Rot
+First detected at line :  1333 of File /home/aurelie/micmac/src/bitm/matrix.cpp

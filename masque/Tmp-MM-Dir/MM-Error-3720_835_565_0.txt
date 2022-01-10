@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 325  of file C:\projects\micmac-uct71\src\util\error.cpp 
+PID=3720
+Context=[Elise_Pile_Mess_0::display]
+GMEC:Kind of err User's error
+MM3D-Command=["mm3d" "to8Bits" "Z_Num7_DeZoom2_STD-MALT.tif" "Circ=1" "Coul=1" "Mask=AutoMask_STD-MALT_Num_6.tif" ]
